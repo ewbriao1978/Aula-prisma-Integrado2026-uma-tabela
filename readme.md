@@ -37,6 +37,6 @@ model Pet {
 
 
 // criar .env e inserir
-DATABASE_URL="mysql://root:@localhost:3306/integradoBDprisma"
+DATABASE_URL="mysql://root:senha@localhost:3306/nome_do_bd"
 - npx prisma migrate dev
 
